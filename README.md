@@ -1,7 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alexandr</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer from Moldova</h3>
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexanrd
 ========================================================================================================================================
 
